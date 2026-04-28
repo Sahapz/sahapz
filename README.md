@@ -5,7 +5,7 @@
 
   <h1 style="margin-bottom: 0.2rem;">Sahapz</h1>
   <p style="margin-top: 0; opacity: 0.9;">
-    Building in the dark • Shipping with focus • Indigo vibes
+  Boss Programmer
   </p>
 
   <img
