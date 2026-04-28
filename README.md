@@ -44,7 +44,7 @@
 </div>
 
 
-## GitHub Stats (dark)
+## GitHub Stats
 <div align="center">
 
 <img
@@ -63,7 +63,7 @@
 
 ---
 
-## Socials (add your links)
+## Socials
 <div align="center">
 
 <a href="https://github.com/Sahapz">
